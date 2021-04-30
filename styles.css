@@ -1,5 +1,5 @@
 body {
-    background-color: #2D2D2D;
+    background-color: #384d5e;
 }
 
 #sidebarMenu {
@@ -16,7 +16,7 @@ body {
 .sidebarMenuInner {
     margin:0;
     padding:0;
-    background-color: #2D2D2D;
+    background-color: #384d5e;
 }
 
 .sidebarMenuInner li {
